@@ -66,7 +66,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #CFDCE8; /*#A8A8A8 #CDCDCD*/
+   color: #FAEFE1; /*#A8A8A8 #CDCDCD*/
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ddfb; } /*#11ABB0*/
+header .social li a:hover { color: #FF9D2D; } /*#11ABB0*/
 
 /* scrolldown link */
 header .scrolldown a {
@@ -116,7 +116,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #1eccf2; } /*#11ABB0*/
+header .scrolldown a:hover { color: #FF9D2D; } /*#11ABB0*/
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -180,11 +180,11 @@ ul#nav li a {
 	transition: color .2s ease-in-out;
 }
 ul#nav li:hover {
-    border-bottom: 3px solid #00CCCC
+    border-bottom: 3px solid #FF9D2D
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
+ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
 
 
 /* ------------------------------------------------------------------ */
@@ -192,7 +192,7 @@ ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #033E69 ; /* #141A1A #2B2B2B  #030a10 #040b11 #020508 #449480*/
+   background: #372D25 ; /* #141A1A #2B2B2B  #030a10 #040b11 #020508 #449480 #007979*/
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -209,7 +209,7 @@ ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
 }
 #about p {
    line-height: 30px;
-   color: #C0D4E7; /* #7A7A7A #CDCDCD #E6E6E6*/
+   color: #FAEFE1; /* #7A7A7A #CDCDCD #E6E6E6*/
 }
 
 #about .profile-wrap { text-align: center;  }
@@ -229,11 +229,11 @@ ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #0E8AB6; /*#444 #138587*/
+   background: #DD8B2D; /*#444 #138587*/
 }
 #about .download .button:hover {
    background: #fff;
-   color: #0E8AB6; /* #2B2B2B */
+   color: #DD8B2D; /* #2B2B2B */
 }
 #about .download .button i {
    margin-right: 15px;
@@ -487,7 +487,7 @@ ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
 .bars li {
    position: relative;
   	background: #ccc;
-  	height: 42px;
+  	height: 30px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -510,8 +510,8 @@ ul#nav li.current a { color: #11ddfb; } /* #11ABB0 #F06000 #00cccc*/
    padding-right: 24px;
   	background: #033E69; /*#313131*/
    display: inline-block;
-  	height: 42px;
-   line-height: 42px;
+  	height: 30px;
+   line-height: 30px;
    border-radius: 3px 0 0 3px;
 }
 
