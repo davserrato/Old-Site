@@ -83,10 +83,9 @@ jQuery(document).ready(function($) {
         var y = $(window).scrollTop();
         var nav = $('#nav-wrap');
 
-        if ( (y > h*.10) && (y < h) && ($(window).outerWidth() > 768 ) ) {
+        if ( (y > h*.10) && (y < h *.95) && ($(window).outerWidth() > 768 ) ) {
             nav.fadeOut('fast');
-        }
-        else {
+        } else {
             if (y < h*.10) {
                 nav.removeClass('opaque').fadeIn('fast');
             }

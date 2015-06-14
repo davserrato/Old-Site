@@ -140,7 +140,7 @@ header .scrolldown a:hover { color: #FF9D2D; } /*#11ABB0*/
     top: 0;
 }
 .opaque {
-    background-color: #281D00;
+    background-color: #1D1107;
     opacity: 0.9;
 } /*#333 */
 
@@ -199,7 +199,7 @@ ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #FF9D2D; }
 
 #about h2, #about h3 {
     font: 22px/30px 'opensans-bold', sans-serif;
@@ -387,7 +387,7 @@ ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
     letter-spacing: 3px;
     cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: #DD8B2D; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -425,7 +425,7 @@ ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
     overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #DD8B2D; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -434,7 +434,7 @@ ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
     letter-spacing: 1px;
 }
 #resume h1 span {
-    border-bottom: 3px solid #11ABB0;
+    border-bottom: 3px solid #DD8B2D;
     padding-bottom: 6px;
 }
 #resume h3, {
@@ -508,7 +508,7 @@ ul#nav li.current a { color: #FF9D2D; } /* #11ABB0 #F06000 #00cccc*/
 
     margin: 0;
     padding-right: 24px;
-    background: #033E69; /*#313131*/
+    background: #DD8B2D; /*#313131*/
     display: inline-block;
     height: 30px;
     line-height: 30px;
@@ -822,14 +822,14 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-    background: #0A0F20; /*#191919*/
+    background: #372D25; /*#191919*/
     padding-top: 96px;
     padding-bottom: 102px;
-    color: #D1D0E2; /* #636363*/
+    color: #FAEFCF; /* #636363*/
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #DD8B2D; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
