@@ -59,7 +59,8 @@
    /* Resume Section
    ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
-   #resume .main-col { padding-right: 5%; }   
+   #resume .main-col { padding-right: 5%; }
+   #resume h5 { font-size: 50px; }
 
    /* Testimonials Section
    ------------------------------------------------------------------- */
@@ -111,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #0E8AB6; /*#CC5200 #0F6C6E*/
+		background-color: #DD8B2D; /*#CC5200 #0F6C6E*/
 		position: relative;
       border: none;
       float: right;
@@ -181,7 +182,7 @@
       border: none;
    }
 
-    ul#nav li:hover {  border-bottom: 1px solid #00CCCC;  }
+    ul#nav li:hover {  border-bottom: 1px solid #DD8B2D;  }
 
 
    /* Header Styles
@@ -294,7 +295,7 @@
       font: 16px/24px 'opensans-bold', sans-serif;            
       text-align: center;   
       margin-bottom: 30px;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+      text-shadow: 0 1px 3px rgba(0, 0, 0, 1);
    }  
    #contact h1 span { display: block; }
    #contact .header-col { padding-top: 0; }

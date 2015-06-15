@@ -233,24 +233,11 @@ function checkAnimation3() {
     }
 }
 
-function checkAnimation4() {
-    var $elem4 = $('.bars .bar-expand4');
-
-    // If the animation has already been started
-    if ($elem4.hasClass('start4')) return;
-
-    if (isElementInViewport($elem4)) {
-        // Start the animation
-        $elem4.addClass('start4');
-    }
-}
-
 // Capture scroll events
 $(window).scroll(function(){
     checkAnimation1();
     checkAnimation2();
     checkAnimation3();
-    checkAnimation4();
 });
 
 
