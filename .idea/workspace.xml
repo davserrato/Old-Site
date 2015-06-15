@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3492b7b9-2479-4a4e-be65-e2f3a5dcd961" name="Default" comment="Initial Blinky">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media-queries.css" afterPath="$PROJECT_DIR$/css/media-queries.css" />
-    </list>
+    <list default="true" id="3492b7b9-2479-4a4e-be65-e2f3a5dcd961" name="Default" comment="Initial Blinky" />
     <ignored path="Personal Website.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
