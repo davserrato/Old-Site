@@ -1,4 +1,5 @@
 *.jar
-inc/
+projects/
 *.ico
 *.txt
+demo.html
