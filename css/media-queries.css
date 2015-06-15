@@ -60,7 +60,7 @@
    ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }
-   #resume h5 { font-size: 50px; }
+   #resume h5 { font-size: 40px; }
 
    /* Testimonials Section
    ------------------------------------------------------------------- */
@@ -367,6 +367,9 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+   /* resume styles
+   --------------------------------------------------------------------- */
 
    /* footer
    ------------------------------------------------------------------------ */
