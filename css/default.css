@@ -244,9 +244,9 @@ abbr:hover { cursor: help; }
    float: left;
    margin: 0;
    padding: 9px 6px 0 0;
-   font-size: 84px;
+   font-size: 70px;
    font-family: /* Copperplate */ 'opensans-bold', sans-serif;
-   line-height: 60px;
+   line-height: 49px;
    text-indent: 0;
    background: transparent;
    color: inherit;
